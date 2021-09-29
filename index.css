@@ -351,12 +351,7 @@
                           .section2{
                            flex-direction: column;
                            }
-                           .logo{
-                             text-align: center;
-                           }
-                           .search{
-                             margin-left: 345px;
-                           }
+                           
                            
                          .navbar{
                            flex-direction: column;
