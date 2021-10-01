@@ -264,13 +264,13 @@ body{
                                   
                                   }
                                   .section1{
-                                  flex-direction: column;
+                                 flex-direction:column;
                                   }
                                   .section2{
                                    flex-direction: column;
                                    }
                                  .navbar{
-                                   flex-direction: column;
+                                  flex-direction: column;
                                    }
                                   .section3{
                                    flex-direction: column;
@@ -310,13 +310,17 @@ body{
                                   
                                   }
                                   .section1{
-                                  flex-direction: column;
+                                  width: 100%;
+                                  
                                   }
                                   .section2{
-                                   flex-direction: column;
+                                  flex-direction: column;
                                    }
                                  .navbar{
-                                   flex-direction: column;
+                                  width: 100%;
+                                  flex-wrap: wrap;
+                                  
+                                  
                                    }
                                   .section3{
                                    flex-direction: column;
